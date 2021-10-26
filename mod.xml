@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<Mod>
+    <Id>full-local-coop</Id> 
+
+    <Name>Full Co-op (Campaign, arena...)</Name>
+    <Category>Script</Category>
+    <Author>Denperidge</Author>
+    <Description>
+    Play any map or mode in full local co-op! (Or even online using remote play!)
+    Press F9 to add a player, and F10 to remove a player: that's it.
+    Credit for the art to a great-yet-remaining-to-remain-uncredited friend!
+    </Description>
+
+    <Thumbnail>Data/Images/thumbnail.jpg</Thumbnail>
+    <PreviewImage>Data/Images/thumbnail.jpg</PreviewImage>
+
+    <Tag>Scripting</Tag>
+    <Tag>Scripts</Tag>
+    <Tag>Script</Tag>
+    <Tag>Local Multiplayer</Tag>
+    <Tag>Remote Play</Tag>
+
+    <Version>1.0.0</Version>
+    <SupportedVersion>1.4.0</SupportedVersion>
+
+    <LevelHookFile>Data/Scripts/startCoop.as</LevelHookFile>
+</Mod>
